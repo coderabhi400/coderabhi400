@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderabhi400
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development and android debelopment
-- 💞️ I’m looking to collaborate on the projects related to web development
+- 🌱 I’m currently learning web development and Machine Learning.
+- 💞️ I’m looking to collaborate on projects related to web development
 
 
 <!---
